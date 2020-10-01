@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `TOKO`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Aplikasi Toko`,
+      summary: `Aplikasi toko Program toko Software toko mesin kasir toko.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Aplikasi toko Program toko Software toko mesin kasir toko.`,
+    siteUrl: `https://toko.gtsb.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hockeycomp`,
     },
   },
   plugins: [
